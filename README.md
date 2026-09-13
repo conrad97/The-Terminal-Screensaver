@@ -4,6 +4,8 @@ A "screensaver" that runs in your terminal. Complete with time, weather,
 seasons, and night/day cycles. Modify as needed to fit your location and needs.
 **No API key needed.**
 
+This is something simple, neat, and nice to look at if you have an extra screen while working, or want something up as a screensaver. 
+
 A big clock sits over a sky that actually matches the time of day outside —
 sunrise oranges, blue afternoon, sunset, then stars — along with your local
 weather, the moon phase, and a treeline that changes with the seasons and lights
